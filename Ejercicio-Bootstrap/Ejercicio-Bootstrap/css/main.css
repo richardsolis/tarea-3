@@ -1,0 +1,237 @@
+/* Inserta tu código aqui */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	float: left;
+}
+
+.container li {
+	list-style: none;
+	display: inline-block;
+}
+
+.nav-right {
+	float: right;
+}
+
+.nav-right ul {
+	margin-top: 20px;
+}
+.nav-right ul li {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.navegator {
+	background-color: #d6d6d6;
+	height: 100px;
+	padding-top: 58px;
+}
+
+.container-fluid {
+	background-color: #d6d6d6;
+	height: 80px;
+}
+
+.navbar-default .navbar-nav .active a {
+	background-color: white;
+}
+
+.navbar-nav li {
+	padding-top: 30px;
+}
+
+.info h4 span {
+	color: #999;
+}
+
+.info img {
+	width: 450px;
+	height: auto;
+}
+
+section .info {
+	border-bottom: 2px solid #d6d6d6;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+}
+
+section .last-info {
+	border-bottom: 0px;
+}
+
+.video-wrap {
+	background-color: #d6d6d6;
+	padding-bottom: 20px;
+
+}
+
+.video-wrap p {
+	color: #666666;
+	
+}
+
+.more span{
+	float: right;
+	overflow: hidden;
+}
+
+.video-text {
+	margin: 10px;
+}
+
+.video-wrap p span{
+	color: black;
+	
+}
+
+
+section .info p{
+	color: #999999;
+}
+
+section .info i{
+	font-weight: bold;
+}
+
+section .info i span{
+	font-weight: normal;
+	margin-right: 10px;
+	text-decoration: underline;
+}
+.webzone {
+	margin-top: 20px;
+}
+
+.zone {
+	background-color: #222;
+	padding: 10px;
+}
+
+.qs {
+	font-weight: bold;	
+	margin-left: 20px;
+}
+
+.qs2 {
+	text-decoration: underline;
+}
+
+.wc3video {
+	margin: 10px;
+}
+
+.number {
+	background-color: #ccc;
+	text-align: center;
+	height: 80px;
+	font-size: 25px;
+}
+
+.agenda p {
+	color: #999;
+}
+
+.number p {
+	color: black;
+}
+
+.agenda {
+	margin-top: 20px;
+}
+
+.agenda .col-lg-4 {
+	padding-left:0;
+}
+
+
+
+.agenda .row {
+	margin-top: 25px;
+	border-bottom: 2px solid #d6d6d6; 
+}
+
+.ccc {
+	padding: 10px;
+	padding-right: 100px;
+	font-size: 20px;
+}
+.agenda h4 {
+	margin: 0;
+}
+
+.more-information h5 {
+	text-decoration: underline;
+	color: #999;
+}
+
+.more-information h4 {
+	color: black;
+}
+
+.more-information p {
+	color: #d6d6d6;
+}
+
+.colum3 li{
+	display: block;
+}
+
+.bookmark {
+	padding-bottom: 20px;
+	border-bottom: 2px solid #d6d6d6;
+}
+
+.magazine h3 {
+	margin: 0;
+	color: black;
+}
+
+.magazine h5 {
+	margin-bottom: 0;
+}
+.magazine .eco {
+	font-weight: bold;
+}
+
+.magazine {
+	background-color: #d9d9d9;
+	color: #999;
+	padding: 10px;
+}
+
+.acc {
+	margin-top: 20px;
+}
+
+.gene {
+	color: black;
+}
+
+footer {
+	color: black;
+	margin-bottom: 50px;
+}
+
+footer .container{
+	border-top: 5px solid #333; 
+}
+
+footer .container li {
+	display: block;
+} 
+
+.dd2 {
+	float: left;
+}
+
+.dd1 {
+	margin-bottom: 30px;
+}
+
+
